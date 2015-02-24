@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-23T10:37:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-23T11:24:30.690284+00:00", 
+  "modified_at": "2015-02-24T12:12:28.353925+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 71, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-have-tetanus-vaccination", 
   "uuid": "f23909a071b546a4ba1d03d08a883ceb"

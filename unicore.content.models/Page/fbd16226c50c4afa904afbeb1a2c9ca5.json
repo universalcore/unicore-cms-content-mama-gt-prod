@@ -1,17 +1,17 @@
 {
   "subtitle": "My sister had fits", 
-  "description": "", 
+  "description": "Puedes evitarlas si vas a tus revisiones con regularidad", 
   "language": "spa_CO", 
   "title": "Mi hermana tuvo convulsiones", 
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
-  "created_at": "2015-03-03T10:27:40.075091+00:00", 
+  "created_at": "2015-03-03T10:27:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T10:27:40.075283+00:00", 
+  "modified_at": "2015-03-03T10:28:22.161714+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 

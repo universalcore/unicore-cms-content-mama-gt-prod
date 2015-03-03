@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
+  "subtitle": "The birth of your baby", 
   "description": "Las respiraciones cortas y r\u00e1pidas ayudan", 
   "language": "spa_CO", 
   "title": "El nacimiento de tu beb\u00e9", 
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-03-03T12:39:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T12:47:11.452073+00:00", 
+  "modified_at": "2015-03-03T15:07:06.731177+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 47, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "el-nacimiento-de-tu-bebe", 
   "uuid": "cd7111a413d04b31abadf41160544770"

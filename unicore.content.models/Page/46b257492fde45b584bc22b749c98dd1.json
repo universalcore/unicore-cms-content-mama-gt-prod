@@ -1,17 +1,17 @@
 {
-  "subtitle": "How can I feel less nauseous", 
+  "subtitle": "Why do I get headaches?", 
   "description": "Las hormonas del embarazo pueden causar dolores de cabeza\r\n", 
   "language": "spa_CO", 
   "title": "\u00bfPor qu\u00e9 me est\u00e1n dando dolores de cabeza?", 
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-03-03T10:06:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T10:18:50.429048+00:00", 
+  "modified_at": "2015-03-03T10:19:52.367766+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 

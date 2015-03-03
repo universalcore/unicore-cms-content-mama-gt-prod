@@ -1,0 +1,29 @@
+{
+  "subtitle": "Check-ups after the birth", 
+  "description": "Aseg\u00farate de que los dos est\u00e9n bien", 
+  "language": "spa_CO", 
+  "title": "Revisiones despu\u00e9s del parto", 
+  "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
+  "created_at": "2015-03-03T13:49:22.372158+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-03T13:49:22.372355+00:00", 
+  "_version": {
+    "package_version": "1.0.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Creado por BabyCenter\r\n\r\nEs bueno, y tranquilizador, tener revisiones m\u00e9dicas en las semanas despu\u00e9s de nacido tu beb\u00e9, para asegurarte de que los dos est\u00e9n bien. Recuerda que tanto los ni\u00f1os como las ni\u00f1as necesitan la misma cantidad de revisiones. \r\n\r\nVisita al doctor o enfermera en tu puesto de salud local con tu beb\u00e9, al menos una vez durante la primera semana despu\u00e9s del nacimiento y de nuevo cuando tu beb\u00e9 tenga 6 semanas de nacida. \r\n\r\nLleva a tu beb\u00e9 a ver a un doctor o enfermera en tu puesto de salud local de inmediato si:\r\n\r\n\u2022\tSu panza est\u00e1 demasiado fr\u00eda o demasiado caliente.\r\n\r\n\u2022\tSe le ponen amarillos los ojos, las manos y los pies en su primer d\u00eda de vida.\r\n\r\n\u2022\tNo quiere tomar su leche o no mama bien.\r\n\r\n\u2022\tNo deja de llorar o su llanto suena raro.\r\n\r\n\u2022\tLe da una convulsi\u00f3n, est\u00e1 adormilada y no se mueve mucho, o tiene la piel o las u\u00f1as un poco azules.\r\n\r\n\u2022\tTiene dificultad para respirar o suena rara cuando respira, gru\u00f1e o respira r\u00e1pido.\r\n\r\n\u2022\tVomita durante m\u00e1s de un d\u00eda cada vez que la alimentas, o tiene inflamada la panza.\r\n\r\n\u2022\tEl \u00e1rea alrededor del cord\u00f3n de tu beb\u00e9 est\u00e1 roja o huele mal.\r\n\r\nEstas son se\u00f1ales de que tu beb\u00e9 no est\u00e1 bien y necesita tratamiento en seguida.\r\n", 
+  "source": "159e4540e00543bf8d86d8bacee7e92a", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "revisiones-despues-del-parto", 
+  "uuid": "e8895d3f12b94eff997df0d600e8bced"
+}

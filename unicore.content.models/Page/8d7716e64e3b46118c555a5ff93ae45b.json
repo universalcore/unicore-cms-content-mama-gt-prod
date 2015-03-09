@@ -1,17 +1,17 @@
 {
-  "subtitle": "El alcohol les hace da\u00f1o a ti y a tu beb\u00e9", 
+  "subtitle": "Can I drink alcohol?", 
   "description": "El alcohol les hace da\u00f1o a ti y a tu beb\u00e9", 
   "language": "spa_CO", 
   "title": "\u00bfPuedo beber alcohol? ", 
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
-  "created_at": "2015-03-03T11:34:45.999705+00:00", 
+  "created_at": "2015-03-03T11:34:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T11:34:46.000085+00:00", 
+  "modified_at": "2015-03-09T10:08:49.683535+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 73, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "puedo-beber-alcohol", 
   "uuid": "8d7716e64e3b46118c555a5ff93ae45b"

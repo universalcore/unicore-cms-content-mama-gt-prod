@@ -4,14 +4,14 @@
   "language": "spa_CO", 
   "title": "La leche de pecho combate el VIH", 
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
-  "created_at": "2015-03-03T12:54:31.611291+00:00", 
+  "created_at": "2015-03-03T12:54:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-03T12:54:31.611664+00:00", 
+  "modified_at": "2015-03-09T21:21:22.145140+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 42, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-leche-de-pecho-combate-el-vih", 
   "uuid": "2857489e920d4006bd88a1a1d698c377"

@@ -6,15 +6,19 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-03-03T11:09:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-09T10:05:35.465898+00:00", 
+  "modified_at": "2015-03-25T09:16:53.649646+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "164c71a329fa4010a964da42152b596a", 
+    "2857489e920d4006bd88a1a1d698c377", 
+    "80f134225786458d80afa0fc7e095f57"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi eres VIH+, no est\u00e1s sola; muchas mujeres embarazadas son VIH+. Pero puedes evitar pas\u00e1rselo a tu beb\u00e9 si obtienes los cuidados adecuados durante tu embarazo.\r\n\r\nSi todav\u00eda no te han hecho la prueba del VIH, pueden hac\u00e9rtela en un puesto de salud, pero quiz\u00e1s tengas que pedir la prueba. Solamente t\u00fa sabr\u00e1s los resultados, pero podr\u00edas ir con una amiga para que te apoye.\r\n\r\nSi tu primera prueba de VIH fue negativa, puedes pedir otra m\u00e1s adelante en tu embarazo. Por favor hazte la prueba de ser posible. Puedes evitar pasarle el VIH a tu beb\u00e9 si obtienes la atenci\u00f3n m\u00e9dica adecuada.\r\n\r\nPodr\u00edas asustarte al averiguar que eres VIH+. Date tiempo para acostumbrarte a la idea. Nadie puede verlo y muchas mujeres embarazadas lo son. Hay medicinas que ayudan a evitar que le transmitas el VIH a tu beb\u00e9. Algunos puestos de salud ofrecen estas medicinas gratis. \r\n\r\nPuedes vivir una vida normal si tomas todas tus medicinas y te cuidas.\r\n\r\nVas a necesitar medicinas llamadas antirretrovirales. Estas te ayudan a vivir una vida sana. Tambi\u00e9n te ayudan a asegurarte de que el VIH no se transmita a tu beb\u00e9. \r\n\r\nSi eres VIH+, tu beb\u00e9 tambi\u00e9n va a necesitar tomar medicinas antirretrovirales durante sus primeras 6 semanas de vida. Pueden evitar que desarrolle VIH cuando lo est\u00e9s amamantando.\r\n", 
   "source": "5b6045d845ca42a8976054927d968d6f", 

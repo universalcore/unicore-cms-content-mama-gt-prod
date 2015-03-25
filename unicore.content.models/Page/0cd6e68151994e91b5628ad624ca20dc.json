@@ -6,15 +6,22 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-03-03T12:41:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-09T18:51:13.663665+00:00", 
+  "modified_at": "2015-03-25T09:30:03.544043+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fce0b16e41154aa0b93ef26444fa9af4", 
+    "e8895d3f12b94eff997df0d600e8bced", 
+    "bb22fefd631e4f17be9f377639b3c4dd", 
+    "d525a3d667564835bcc65934636b9625", 
+    "b266e3e306a94217ab52165bb2667239", 
+    "cd7111a413d04b31abadf41160544770"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi notas que pasa cualquiera de estas cosas, ve al doctor o enfermera o al puesto de salud tan pronto como puedas.\r\n\r\n**T\u00fa:**\r\n\r\n\u2022\tSi se te ha roto la fuente (las aguas), pero despu\u00e9s de 6 horas todav\u00eda no ha empezado el trabajo de parto.\r\n\r\n\u2022\tSi tus contracciones duran m\u00e1s de 12 horas, pero el beb\u00e9 todav\u00eda no ha nacido.\r\n\r\n\u2022\tSi est\u00e1s sangrando mucho y la sangre empapa m\u00e1s de 2 o 3 toallas higi\u00e9nicas en 15 minutos.\r\n\r\n\u2022\tSi tu placenta no ha salido y ya ha pasado m\u00e1s de 1 hora desde el nacimiento de tu beb\u00e9.\r\n\r\n**Tu beb\u00e9:**\r\n\r\n\u2022\tNotas que tu beb\u00e9 no llora al nacer o tiene dificultades para respirar.\r\n\r\n\u2022\tNotas que tu beb\u00e9 no puede amamantar.\r\n\r\n\u2022\tNotas que tu beb\u00e9 tiene fiebre o est\u00e1 fr\u00edo.\r\n\r\n\u2022\tTu beb\u00e9 es muy peque\u00f1o (pesa menos de 3 libras y media o ha nacido antes de la semana 32 de embarazo).\r\n\r\n\u2022\tTu beb\u00e9 tiene convulsiones.", 
   "source": "3301b2fd06e0420e80bf12f080c49aca", 

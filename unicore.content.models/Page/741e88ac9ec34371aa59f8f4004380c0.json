@@ -6,15 +6,19 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-03-03T14:22:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-09T21:35:14.880328+00:00", 
+  "modified_at": "2015-03-25T09:41:51.879881+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fce0b16e41154aa0b93ef26444fa9af4", 
+    "1acc6a1044b74c08ae416d7c3aac069d", 
+    "8cbadc0299c447639427241470067f17"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi tu beb\u00e9 tiene diarrea, necesita reemplazar los l\u00edquidos que est\u00e1 perdiendo o se va a deshidratar. Deshidratarse quiere decir que su cuerpo no tiene suficiente agua para seguir adelante. Sigue ofreci\u00e9ndole tu pecho y deja que se alimente todas las veces que quiera.\r\nNo le des jugos de frutas, refrescos ni ninguna otra bebida que contenga az\u00facar. Estas bebidas pueden hacer que empeore la diarrea. \r\nSi tiene menos de 6 meses, no necesita agua. La leche de tu pecho le dar\u00e1 todo lo que necesita.\r\n\r\nSi tiene m\u00e1s de 6 meses, dale traguitos de agua limpia y segura entre una toma de lactancia y la siguiente. Si puedes, dale traguitos de una soluci\u00f3n oral contra la deshidrataci\u00f3n, unas cuantas veces cada hora. Esta soluci\u00f3n es un polvo que se disuelve en un litro de agua limpia y segura y enfriada. Puedes prepararla y guardarla entre 8-12 horas. Dale a tu beb\u00e9 entre 15 y 20 cucharaditas de la soluci\u00f3n oral contra la deshidrataci\u00f3n despu\u00e9s de cada deposici\u00f3n con pop\u00f3 deshecho o l\u00edquido. Dale las cucharaditas esparcidas en media hora. \r\nLleva a tu beb\u00e9 a un doctor o enfermera en tu puesto de salud local lo antes posible si:\r\n\r\n\u2022\tTiene diarrea m\u00e1s de 1 d\u00eda.\r\n\r\n\u2022\tTiene secos los labios o la piel.\r\n\r\n\u2022\tSu orina es de color amarillo oscuro y est\u00e1 orinando menos seguido.\r\n\r\n\u2022\tLa parte blanda de su cabeza o fontanela est\u00e1 hundida.\r\n\r\n\u2022\tNo quiere tomar nada, su excremento tiene sangre o tiene hinchada la panza.\r\n\r\n\u2022\tVomita durante m\u00e1s de un d\u00eda, o tiene fiebre que dura m\u00e1s de un d\u00eda.\r\n", 
   "source": "f4c3c03472e0490a80075f8790728e30", 

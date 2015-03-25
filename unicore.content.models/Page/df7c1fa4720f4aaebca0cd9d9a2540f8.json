@@ -6,15 +6,22 @@
   "primary_category": "66ecc71139fa489d991eef9d5c214d99", 
   "created_at": "2015-03-03T14:31:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-09T21:39:55.131318+00:00", 
+  "modified_at": "2015-03-25T09:44:05.626824+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c9fd111713b14a5bbc6672875f595164", 
+    "f037bdf5ed574bfb95dca1056fef0877", 
+    "4e36f242293d479e96ae44a7f96001c1", 
+    "e571c7974f784a6890d0419128177b8e", 
+    "5a016b293ff7400aa12107356a289bfc", 
+    "1acc6a1044b74c08ae416d7c3aac069d"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nUn beb\u00e9 que est\u00e1 creciendo bien est\u00e1 animado, lleno de energ\u00eda, y quiere jugar. \r\n\r\n\u00bfTe mira directamente? \u00a1Tal vez hasta te sonr\u00eda! As\u00ed sabes que puede ver bien.\r\n\r\n\u00bfHas notado cuando lo cargas que est\u00e1 mucho m\u00e1s pesado que antes? Esto demuestra que est\u00e1 comiendo bien.\r\n\r\n\u00bfSe voltea hacia nuevos sonidos? Esto significa que oye bien.\r\n\r\nSi tu beb\u00e9 tiene sue\u00f1o, poca energ\u00eda, y no quiere jugar, es importante que lo lleves a un doctor o enfermera para ver qu\u00e9 anda mal.\r\n\r\nSi tu beb\u00e9 ha estado enfermo o si est\u00e1s preocupada por \u00e9l, m\u00eddele la parte de arriba del brazo cada mes con un cordel. Marca el cordel para que sepas cu\u00e1nto ha crecido la pr\u00f3xima vez que lo midas. Si su brazo est\u00e1 m\u00e1s grande, est\u00e1 creciendo. Si su brazo se queda igual o est\u00e1 m\u00e1s delgado, necesita m\u00e1s alimento. \r\n\r\nLas revisiones regulares con un doctor o enfermera de tu puesto de salud local te ayudar\u00e1n a asegurarte de que tu beb\u00e9 est\u00e1 creciendo bien. Trata de llevarlo cada pocos meses para que lo pesen. Cuando est\u00e9s ah\u00ed puedes hacerle al doctor o enfermera todas las preguntas que tengas. Trata de hacer todas tus preguntas en 1 visita. Esto te va a ahorrar tiempo.\r\n", 
   "source": "d60bcade8ed24784b2d2c49f62bfbfb9", 

@@ -6,15 +6,20 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-03-03T11:10:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-09T10:06:22.727311+00:00", 
+  "modified_at": "2015-03-25T09:17:17.726160+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7d1cd482f616465f8b22ed6006c4ebd8", 
+    "638e5892835247c687c2d8cc4bf475af", 
+    "beb7393da5b84a8d8fd22faed4d2c2de", 
+    "684e0a5da8314a2d9855c8a1a53e06b7"
+  ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\nSi alguien en tu familia tiene tuberculosis (TB), todos deben hacerse la prueba. El tratamiento los proteger\u00e1 a ti y a tu beb\u00e9. \r\n\r\nMantente alerta a las se\u00f1ales de TB en tu propio cuerpo y en las personas que te rodean. La TB es una enfermedad que puede ser muy peligrosa. Se transmite a trav\u00e9s del aire al toser y estornudar y puede quedarse en el aire durante mucho tiempo.\r\n\r\nSi tienes tos durante m\u00e1s de 2 semanas o has bajado de peso de repente, ve a tu puesto de salud para visitar a tu doctor o enfermera. All\u00ed podr\u00e1n revisar si tienes TB y te podr\u00e1n dar las medicinas necesarias. \r\n\r\nSi te tomas todas las medicinas, puedes acabar por completo con la tuberculosis. Dejar de tomarlas antes de acabarlas podr\u00eda hacer que regresara la TB.\r\n\r\nCuando est\u00e1s embarazada, es m\u00e1s f\u00e1cil contraer tuberculosis. Trata de cuidarte m\u00e1s de lo normal comiendo bien, y no vayas a lugares muy llenos de gente. Al\u00e9jate de personas que est\u00e9n tosiendo y estornudando.\r\n\r\nSi alguien en tu familia tiene tuberculosis, dejar\u00e1n de ser contagiosos despu\u00e9s de tomar su medicina durante 2 semanas. P\u00eddeles que se cubran la boca y la nariz cuando tosan y estornuden, y que se laven las manos con regularidad.\r\n", 
   "source": "03697385666a48f1b6f6c2ee31d7d460", 

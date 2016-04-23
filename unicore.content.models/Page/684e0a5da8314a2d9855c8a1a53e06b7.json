@@ -6,18 +6,18 @@
   "primary_category": "2c6ad634e2c24c7586c272348a59a534", 
   "created_at": "2015-03-03T10:01:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-25T08:51:54.513498+00:00", 
+  "modified_at": "2016-04-23T10:43:43.258397+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
+    "66e226c0247a49bda959416e0c10d17c", 
     "638e5892835247c687c2d8cc4bf475af", 
-    "e1a4692bedc34caa9d5eb5ac89602b95", 
-    "66e226c0247a49bda959416e0c10d17c"
+    "e1a4692bedc34caa9d5eb5ac89602b95"
   ], 
   "id": null, 
   "content": "Creado por BabyCenter\r\n\r\n1.\tCome bien. Trata de comer frutas y verduras todos los d\u00edas. Come arroz, leche de coco y huevos regularmente. Los frijoles negros y arroz son una buena combinaci\u00f3n. A\u00f1ade manias a tu comida para hacerla todav\u00eda m\u00e1s saludable. Las frutas como mangos, naranjas y papayas son buenas. Come mucha fruta. Trata de comer un poco m\u00e1s de alimento en cada comida. No pases mucho tiempo sin comer. Ll\u00e9vate algo para comer si tienes que ir a alguna parte. Bebe mucha agua limpia y segura y prueba INCAPARINA, es barata y saludable.\r\n\r\n2.\tHazte revisiones m\u00e9dicas mientras est\u00e1s embarazada. Trata de ir a 5 visitas con tu doctor o enfermera en el puesto de salud local. Que te hagan las pruebas de sangre y orina y que te tomen la presi\u00f3n regularmente. Estas pruebas ayudan a encontrar problemas temprano. As\u00ed puedes obtener tratamiento y mantener seguros a ti y a tu beb\u00e9. \r\n\r\n3.\tHazte la prueba de VIH si est\u00e1s preocupada. Si eres VIH+, hay medicinas para ayudarte a seguir sinti\u00e9ndote bien y evitar que tu beb\u00e9 nazca VIH+. Si descubres que no eres VIH+, puedes asegurarte de seguir as\u00ed.\r\n\r\n4.\tToma tus vitaminas prenatales. Estas vitaminas ayudan a tu beb\u00e9 a crecer bien. Preg\u00fantale a tu doctor o enfermera en el puesto de salud local si las puedes obtener gratis. \r\n\r\n5.\tMantente limpia. L\u00e1vate las manos con agua y jab\u00f3n antes de cocinar, antes de comer y despu\u00e9s de ir al ba\u00f1o.\r\n", 
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 97, 
+  "position": 55, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "5-formas-de-estar-sana", 
   "uuid": "684e0a5da8314a2d9855c8a1a53e06b7"
